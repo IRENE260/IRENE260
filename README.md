@@ -1,13 +1,14 @@
- 👋 Hi,I'm Irene Ann Jacob
-    🌱 I’m currently studying btech in computer science 
-        😄 Beginner in programming ......
-<!--
-**IRENE260/IRENE260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1 align="center">Hi 👋, I'm Irene </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-Here are some ideas to get you started:
+## I'm a Student, and Developer...!
+- 🔭 Student at College Of Engineering, Chengannur
 
-- 🌱 I’m currently studying btech in computer science   ...
+- 🌱 I’m currently learning **everything**
 
+- 📫 How to reach me : **ireneannjacob@gmail.com**
+- 🥅 2022 Goal : Improve my potential & learn new things 
 
-- 😄 Beginner in programming 
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IRENE260&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=IRENE260&show_icons=true&theme=prussian&date_format=j%20M%5B%20Y%5D)
