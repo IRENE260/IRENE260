@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/irene-ann-jacob-a988b1213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaavan philip roy" height="30" width="40" /></a>
-<a href="https://instagram.com/____jadevulture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____jadevulture" height="30" width="40" /></a>
+<a href="https://instagram.com/ireneann_jacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="____jadevulture" height="30" width="40" /></a>
 </p>
 
 
