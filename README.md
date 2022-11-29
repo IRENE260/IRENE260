@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Irene </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">BEGINNER IN PROGRAMMING</h3>
 
-## I'm a Student, and Developer...!
+## I'm a Student  ...!
 - 🔭 Student at College Of Engineering, Chengannur
 
 - 🌱 I’m currently learning **everything**
